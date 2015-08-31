@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Because without it, you can't create commits, so you can't use version control with git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is different from the working directory in the sense that it doesn't exist as a directory does, and it is different from the repository because it is a previous area to it.
+
