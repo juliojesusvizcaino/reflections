@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	The differences are that branches doesn't repeat commits like clones and forks. Between forks and clones, they are the same, but in differents platforms
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	You know where the production is, and you don't need to be connected in order to make commits.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I use to colaborate using google drive. It is not a good idea because you cannot collaborate at the same time, or you can do it by creating a copy of the file and then merging it, but not automatically like git does. It is hard to learn to use git, but it is faster and easier to collaborate with it and GitHub.
+
