@@ -13,3 +13,5 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I use to colaborate using google drive. It is not a good idea because you cannot collaborate at the same time, or you can do it by creating a copy of the file and then merging it, but not automatically like git does. It is hard to learn to use git, but it is faster and easier to collaborate with it and GitHub.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	I would want to create a branch when I would like to make changes in a specific charachteristic of the code. Separating into branches have the benefit that different works are separated; doing everything in the master could be confusing, but it is easier to "merge".
